@@ -1,0 +1,21 @@
+{
+  "name": "uniapp-devtool-launcher-webpack-plugin",
+  "version": "1.0.0",
+  "description": "用于uniapp项目自动打开开发者工具的插件",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linrenen/uniapp-devtool-launcher-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniapp"
+  ],
+  "author": "Linrenen",
+  "license": "Apache",
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.15"
+  }
+}
